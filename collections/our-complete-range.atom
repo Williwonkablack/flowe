@@ -1,0 +1,1662 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.flowers.ae/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.flowers.ae/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.flowers.ae/collections/our-complete-range.atom"/>
+  <title>Flowers.ae</title>
+  <updated>2025-02-07T08:13:31+04:00</updated>
+  <author>
+    <name>Flowers.ae</name>
+  </author>
+  <entry>
+    <id>https://www.flowers.ae/products/7880551497817</id>
+    <published>2025-02-07T08:13:31+04:00</published>
+    <updated>2025-02-07T08:13:31+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flowers.ae/products/12-blush-roses-vase-complimentary-chocolates-and-balloon"/>
+    <title>12 Blush Roses Vase - Gift Bundle</title>
+    <s:type></s:type>
+    <s:vendor>Flowers.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/4847/4713/files/AE_Special_Offers_8.jpg?v=1732382449"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flowers.ae<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            395.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Elevate your gifting experience with our exquisite 12 Blush Roses vase. This timeless arrangement is a perfect expression of affection, ideal for special occasions  – a gift that speaks volumes without uttering a word.<br><br></span></p>
+<meta charset="utf-8">
+<p><span>This lovely arrangement includes Chocolates and Balloon.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>60min</s:tag>
+    <s:tag>valentines-2025</s:tag>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7880551497817</id>
+      <title>Default Title</title>
+      <s:price currency="AED">395.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flowers.ae/products/7880552841305</id>
+    <published>2025-02-07T08:12:45+04:00</published>
+    <updated>2025-02-07T08:12:45+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flowers.ae/products/12-red-roses-vase-complimentary-chocolates-and-balloon"/>
+    <title>12 Red Roses Vase - Gift Bundle</title>
+    <s:type></s:type>
+    <s:vendor>Flowers.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/4847/4713/files/AE_Special_Offers_6.jpg?v=1732382449"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flowers.ae<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            395.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<p><span><b>Please note: This product is only available from Friday 3rd January </b></span></p>
+<p><span>Elevate your gifting experience with our exquisite 12 Red Roses vase. This timeless arrangement is a perfect expression of affection, ideal for special occasions  – a gift that speaks volumes without uttering a word.</span></p>
+<p><span> This lovely arrangement includes Chocolates and Balloon.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>60min</s:tag>
+    <s:tag>valentines-2025</s:tag>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7880552841305</id>
+      <title>Default Title</title>
+      <s:price currency="AED">395.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flowers.ae/products/7880552677465</id>
+    <published>2025-02-07T08:12:31+04:00</published>
+    <updated>2025-02-07T08:12:31+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flowers.ae/products/12-purple-roses-vase-complimentary-chocolates-and-balloon"/>
+    <title>12 White Roses Vase - Gift Bundle</title>
+    <s:type></s:type>
+    <s:vendor>Flowers.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/4847/4713/files/AE_Special_Offers_7.jpg?v=1732382449"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flowers.ae<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            395.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Elevate your gifting experience with our exquisite 12 Purple Roses vase. This timeless arrangement is a perfect expression of affection, ideal for special occasions  – a gift that speaks volumes without uttering a word.</span></p>
+<p><span> This lovely arrangement includes Chocolates and Balloon.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>60min</s:tag>
+    <s:tag>valentines-2025</s:tag>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7880552677465</id>
+      <title>Default Title</title>
+      <s:price currency="AED">395.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flowers.ae/products/7880552579161</id>
+    <published>2025-02-07T08:10:15+04:00</published>
+    <updated>2025-02-07T08:10:15+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flowers.ae/products/12-pink-roses-vase-gift-bundle"/>
+    <title>12 Pink Roses Vase - Gift Bundle</title>
+    <s:type>Flowers</s:type>
+    <s:vendor>Flowers.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/4847/4713/files/AE_Special_Offers_5.jpg?v=1732382449"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flowers.ae<br>
+        <strong>Type: </strong>Flowers<br>
+        <strong>Price: </strong>
+            395.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Elevate your gifting experience with our exquisite 12 Pink Roses vase. This timeless arrangement is a perfect expression of affection, ideal for special occasions  – a gift that speaks volumes without uttering a word.</span></p>
+<p><span> This lovely arrangement includes Chocolates and Balloon.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>60min</s:tag>
+    <s:tag>valentines-2025</s:tag>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7880552579161</id>
+      <title>Default Title</title>
+      <s:price currency="AED">395.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flowers.ae/products/7463171948633</id>
+    <published>2025-02-06T16:28:58+04:00</published>
+    <updated>2025-02-06T16:28:58+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flowers.ae/products/50-pink-ohara-grand"/>
+    <title>50 Pink O&apos;hara  Grand</title>
+    <s:type></s:type>
+    <s:vendor>Flowers.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/4847/4713/files/50Pink_83971ed1-8907-46b5-b0a5-b478b181168e.jpg?v=1737205647"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flowers.ae<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            995.00 - 1345.00
+            <a href="https://www.flowers.ae/products/50-pink-ohara-grand">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-testid="conversation-turn-36" class="group w-full text-token-text-primary border-b border-black/10 gizmo:border-0 dark:border-gray-900/50 gizmo:dark:border-0 bg-gray-50 gizmo:bg-transparent dark:bg-[#444654] gizmo:dark:bg-transparent">
+<div class="p-4 gizmo:py-2 justify-center text-base md:gap-6 md:py-6 m-auto">
+<div class="flex flex-1 gap-4 text-base mx-auto md:gap-6 gizmo:gap-3 gizmo:md:px-5 gizmo:lg:px-1 gizmo:xl:px-5 md:max-w-2xl lg:max-w-[38rem] gizmo:md:max-w-3xl gizmo:lg:max-w-[40rem] gizmo:xl:max-w-[48rem] xl:max-w-3xl }">
+<div class="relative flex w-[calc(100%-50px)] flex-col gizmo:w-full lg:w-[calc(100%-115px)] agent-turn">
+<div class="flex-col gap-1 md:gap-3">
+<div class="flex flex-grow flex-col gap-3 max-w-full">
+<div class="min-h-[20px] flex flex-col items-start gap-3 whitespace-pre-wrap break-words overflow-x-auto" data-message-id="8451e4e8-888a-48a8-9c5f-f264254fd295" data-message-author-role="assistant">
+<div class="markdown prose w-full break-words dark:prose-invert dark">
+<p>O'hara roses are renowned for their romantic charm. With abundant, fragrant petals and a soft pink hue, they exude elegance and grace. A symbol of love and convey heartfelt sentiments.</p>
+<p><meta charset="utf-8">Gift Set options include:<br><meta charset="utf-8"><span data-mce-fragment="1">* with Balloons 3pcs</span><br><span>* with Rose Geranium Candle </span></p>
+</div>
+</div>
+</div>
+<div class="flex justify-between empty:hidden gizmo:justify-start gizmo:gap-3 lg:block gizmo:lg:flex">
+<div class="text-gray-400 flex self-end lg:self-center justify-center gizmo:lg:justify-start mt-2 gizmo:mt-0 visible lg:gap-1 lg:absolute lg:top-0 lg:translate-x-full lg:right-0 lg:mt-0 lg:pl-2 gap-2 md:gap-3">
+<div class="flex gap-1"><br></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>has wrapper</s:tag>
+    <s:tag>metacatalog</s:tag>
+    <s:tag>over500</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>pink rose</s:tag>
+    <s:tag>VIP</s:tag>
+    <s:tag>VIP Collection</s:tag>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7463171948633</id>
+      <title>Flowers</title>
+      <s:price currency="AED">995.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7463171948633</id>
+      <title>+ 3 balloons  (+85aed)</title>
+      <s:price currency="AED">1080.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7463171948633</id>
+      <title>+ Candle   (+265aed)</title>
+      <s:price currency="AED">1260.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7463171948633</id>
+      <title>+ 3 balloons + Candle   (+350aed)</title>
+      <s:price currency="AED">1345.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flowers.ae/products/7463172014169</id>
+    <published>2025-02-06T16:28:51+04:00</published>
+    <updated>2025-02-06T16:28:51+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flowers.ae/products/150-pink-ohara-grand"/>
+    <title>150 Pink O&apos;hara  Grand</title>
+    <s:type></s:type>
+    <s:vendor>Flowers.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/4847/4713/files/150pink_f985cf70-c244-4a0a-854c-0746a3cecae6.jpg?v=1737206549"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flowers.ae<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2995.00 - 3345.00
+            <a href="https://www.flowers.ae/products/150-pink-ohara-grand">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b></b><span data-mce-fragment="1">Ohara roses are renowned for their romantic charm. With abundant, fragrant petals and a soft pink hue, they exude elegance and grace. </span><span data-mce-fragment="1">A</span><span data-mce-fragment="1"> symbol of love and convey heartfelt sentiments.</span><br></p>
+<p><span data-mce-fragment="1">Gift Set options include:<br><meta charset="utf-8">* with Balloons 3pcs<br>* with Rose Geranium Candle </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>has wrapper</s:tag>
+    <s:tag>metacatalog</s:tag>
+    <s:tag>over500</s:tag>
+    <s:tag>red</s:tag>
+    <s:tag>red rose</s:tag>
+    <s:tag>VIP</s:tag>
+    <s:tag>VIP Collection</s:tag>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7463172014169</id>
+      <title>Flowers</title>
+      <s:price currency="AED">2995.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7463172014169</id>
+      <title>+ 3 balloons  (+85aed)</title>
+      <s:price currency="AED">3080.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7463172014169</id>
+      <title>+ Candle   (+265aed)</title>
+      <s:price currency="AED">3260.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7463172014169</id>
+      <title>+ 3 balloons + Candle   (+350aed)</title>
+      <s:price currency="AED">3345.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flowers.ae/products/7463172210777</id>
+    <published>2025-02-06T16:28:44+04:00</published>
+    <updated>2025-02-06T16:28:44+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flowers.ae/products/100-pink-ohara-grand"/>
+    <title>100 Pink O&apos;hara  Grand</title>
+    <s:type></s:type>
+    <s:vendor>Flowers.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/4847/4713/files/100_20d35890-e857-4e1a-a9c1-b32c31a59984.jpg?v=1737206567"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flowers.ae<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1995.00 - 2345.00
+            <a href="https://www.flowers.ae/products/100-pink-ohara-grand">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b></b><span data-mce-fragment="1">O'hara roses are renowned for their romantic charm. With abundant, fragrant petals and a soft pink hue, they exude elegance and grace. </span><span data-mce-fragment="1">A</span><span data-mce-fragment="1"> symbol of love and convey heartfelt sentiments.</span><br></p>
+<p><span data-mce-fragment="1">Gift Set options include:<br><meta charset="utf-8">* with Balloons 3pcs<br>* with Rose Geranium Candle </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>has wrapper</s:tag>
+    <s:tag>metacatalog</s:tag>
+    <s:tag>over500</s:tag>
+    <s:tag>purple</s:tag>
+    <s:tag>purple rose</s:tag>
+    <s:tag>VIP</s:tag>
+    <s:tag>VIP Collection</s:tag>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7463172210777</id>
+      <title>Flowers</title>
+      <s:price currency="AED">1995.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7463172210777</id>
+      <title>+ 3 balloons  (+85aed)</title>
+      <s:price currency="AED">2080.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7463172210777</id>
+      <title>+ Candle   (+265aed)</title>
+      <s:price currency="AED">2260.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7463172210777</id>
+      <title>+ 3 balloons + Candle   (+350aed)</title>
+      <s:price currency="AED">2345.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flowers.ae/products/7463466434649</id>
+    <published>2025-02-06T16:28:38+04:00</published>
+    <updated>2025-02-06T16:28:38+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flowers.ae/products/50-white-ohara-grand"/>
+    <title>50 White O&apos;hara  Grand</title>
+    <s:type></s:type>
+    <s:vendor>Flowers.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/4847/4713/files/50_90d6ef19-f96f-4264-ab36-84fe7843e8db.jpg?v=1737205748"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flowers.ae<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            995.00 - 1345.00
+            <a href="https://www.flowers.ae/products/50-white-ohara-grand">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="group w-full text-token-text-primary border-b border-black/10 gizmo:border-0 dark:border-gray-900/50 gizmo:dark:border-0 bg-gray-50 gizmo:bg-transparent dark:bg-[#444654] gizmo:dark:bg-transparent" data-testid="conversation-turn-36">
+<div class="p-4 gizmo:py-2 justify-center text-base md:gap-6 md:py-6 m-auto">
+<div class="flex flex-1 gap-4 text-base mx-auto md:gap-6 gizmo:gap-3 gizmo:md:px-5 gizmo:lg:px-1 gizmo:xl:px-5 md:max-w-2xl lg:max-w-[38rem] gizmo:md:max-w-3xl gizmo:lg:max-w-[40rem] gizmo:xl:max-w-[48rem] xl:max-w-3xl }">
+<div class="relative flex w-[calc(100%-50px)] flex-col gizmo:w-full lg:w-[calc(100%-115px)] agent-turn">
+<div class="flex-col gap-1 md:gap-3">
+<div class="flex flex-grow flex-col gap-3 max-w-full">
+<div data-message-author-role="assistant" data-message-id="8451e4e8-888a-48a8-9c5f-f264254fd295" class="min-h-[20px] flex flex-col items-start gap-3 whitespace-pre-wrap break-words overflow-x-auto">
+<div class="markdown prose w-full break-words dark:prose-invert dark">
+<p>O'hara roses are renowned for their romantic charm. With abundant, fragrant petals and a soft pink hue, they exude elegance and grace. A symbol of love and convey heartfelt sentiments.</p>
+<p><meta charset="utf-8">Gift Set options include:<br><meta charset="utf-8"><span>* with Balloons 3pcs</span><br><span>* with Rose Geranium Candle </span></p>
+</div>
+</div>
+</div>
+<div class="flex justify-between empty:hidden gizmo:justify-start gizmo:gap-3 lg:block gizmo:lg:flex">
+<div class="text-gray-400 flex self-end lg:self-center justify-center gizmo:lg:justify-start mt-2 gizmo:mt-0 visible lg:gap-1 lg:absolute lg:top-0 lg:translate-x-full lg:right-0 lg:mt-0 lg:pl-2 gap-2 md:gap-3">
+<div class="flex gap-1"><br></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>has wrapper</s:tag>
+    <s:tag>metacatalog</s:tag>
+    <s:tag>over500</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>pink rose</s:tag>
+    <s:tag>VIP</s:tag>
+    <s:tag>VIP Collection</s:tag>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7463466434649</id>
+      <title>Flowers</title>
+      <s:price currency="AED">995.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7463466434649</id>
+      <title>+ 3 balloons  (+85aed)</title>
+      <s:price currency="AED">1080.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7463466434649</id>
+      <title>+ Candle   (+265aed)</title>
+      <s:price currency="AED">1260.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7463466434649</id>
+      <title>+ 3 balloons + Candle   (+350aed)</title>
+      <s:price currency="AED">1345.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flowers.ae/products/7463466532953</id>
+    <published>2025-02-06T16:28:31+04:00</published>
+    <updated>2025-02-06T16:28:31+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flowers.ae/products/100-white-ohara-grand"/>
+    <title>100 White O&apos;hara  Grand</title>
+    <s:type></s:type>
+    <s:vendor>Flowers.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/4847/4713/files/100White_c8888d5d-0761-4b45-a2c9-a28354148ae4.jpg?v=1737206514"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flowers.ae<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1995.00 - 2345.00
+            <a href="https://www.flowers.ae/products/100-white-ohara-grand">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b></b><span>O'hara roses are renowned for their romantic charm. With abundant, fragrant petals and a soft pink hue, they exude elegance and grace. </span><span>A</span><span> symbol of love and convey heartfelt sentiments.</span><br></p>
+<p><span>Gift Set options include:<br><meta charset="utf-8">* with Balloons 3pcs<br>* with Rose Geranium Candle </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>has wrapper</s:tag>
+    <s:tag>metacatalog</s:tag>
+    <s:tag>over500</s:tag>
+    <s:tag>purple</s:tag>
+    <s:tag>purple rose</s:tag>
+    <s:tag>VIP</s:tag>
+    <s:tag>VIP Collection</s:tag>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7463466532953</id>
+      <title>Flowers</title>
+      <s:price currency="AED">1995.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7463466532953</id>
+      <title>+ 3 balloons  (+85aed)</title>
+      <s:price currency="AED">2080.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7463466532953</id>
+      <title>+ Candle   (+265aed)</title>
+      <s:price currency="AED">2260.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7463466532953</id>
+      <title>+ 3 balloons + Candle   (+350aed)</title>
+      <s:price currency="AED">2345.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flowers.ae/products/7463467155545</id>
+    <published>2025-02-06T16:28:25+04:00</published>
+    <updated>2025-02-06T16:28:25+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flowers.ae/products/150-white-ohara-grand"/>
+    <title>150 White O&apos;hara  Grand</title>
+    <s:type></s:type>
+    <s:vendor>Flowers.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/4847/4713/files/150_c06b0ed0-1aa7-4249-926e-1b07aeae7a45.jpg?v=1737206531"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flowers.ae<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2995.00 - 3345.00
+            <a href="https://www.flowers.ae/products/150-white-ohara-grand">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b></b><span>O'hara roses are renowned for their romantic charm. With abundant, fragrant petals and a soft pink hue, they exude elegance and grace. </span><span>A</span><span> symbol of love and convey heartfelt sentiments.</span><br></p>
+<p><span>Gift Set options include:<br><meta charset="utf-8">* with Balloons 3pcs<br>* with Rose Geranium Candle </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>has wrapper</s:tag>
+    <s:tag>metacatalog</s:tag>
+    <s:tag>over500</s:tag>
+    <s:tag>red</s:tag>
+    <s:tag>red rose</s:tag>
+    <s:tag>VIP</s:tag>
+    <s:tag>VIP Collection</s:tag>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7463467155545</id>
+      <title>Flowers</title>
+      <s:price currency="AED">2995.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7463467155545</id>
+      <title>+ 3 balloons  (+85aed)</title>
+      <s:price currency="AED">3080.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7463467155545</id>
+      <title>+ Candle   (+265aed)</title>
+      <s:price currency="AED">3260.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7463467155545</id>
+      <title>+ 3 balloons + Candle   (+350aed)</title>
+      <s:price currency="AED">3345.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flowers.ae/products/4310696296537</id>
+    <published>2025-02-06T16:06:47+04:00</published>
+    <updated>2025-02-06T16:06:47+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flowers.ae/products/200-yellow-roses"/>
+    <title>200 Yellow Roses</title>
+    <s:type></s:type>
+    <s:vendor>Flowers.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/4847/4713/files/200L1.jpg?v=1698317128"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flowers.ae<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2495.00 - 3245.00
+            <a href="https://www.flowers.ae/products/200-yellow-roses">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b></b>A marvellous hand-tied arrangement of 200 <span data-mce-fragment="1">long-stemmed</span> Yellow Roses for a loved one! Roses are the ultimate symbol of love.</p>
+<p>Gift Set options include:<br>* with Balloons 3pcs<br>* with Mandarin Pepper Candle<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>has wrapper</s:tag>
+    <s:tag>metacatalog</s:tag>
+    <s:tag>over500</s:tag>
+    <s:tag>VIP</s:tag>
+    <s:tag>VIP Collection</s:tag>
+    <s:tag>yellow</s:tag>
+    <s:tag>yellow rose</s:tag>
+    <s:variant>
+      <id>https://www.flowers.ae/products/4310696296537</id>
+      <title>Grand (2895aed) / Flowers</title>
+      <s:price currency="AED">2895.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/4310696296537</id>
+      <title>Grand (2895aed) / + 3 balloons  (+85aed)</title>
+      <s:price currency="AED">2980.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/4310696296537</id>
+      <title>Grand (2895aed) / + Candle   (+265aed)</title>
+      <s:price currency="AED">3160.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/4310696296537</id>
+      <title>Grand (2895aed) / + 3 balloons + Candle   (+350aed)</title>
+      <s:price currency="AED">3245.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/4310696296537</id>
+      <title>Classic (2495aed) / Flowers</title>
+      <s:price currency="AED">2495.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/4310696296537</id>
+      <title>Classic (2495aed) / + 3 balloons  (+85aed)</title>
+      <s:price currency="AED">2580.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/4310696296537</id>
+      <title>Classic (2495aed) / + Candle   (+265aed)</title>
+      <s:price currency="AED">2760.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/4310696296537</id>
+      <title>Classic (2495aed) / + 3 balloons + Candle   (+350aed)</title>
+      <s:price currency="AED">2845.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flowers.ae/products/7414407102553</id>
+    <published>2025-02-06T16:06:41+04:00</published>
+    <updated>2025-02-06T16:06:41+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flowers.ae/products/200-yellow-roses-vase"/>
+    <title>200 Yellow Roses  Vase</title>
+    <s:type>Flowers</s:type>
+    <s:vendor>Flowers.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/4847/4713/files/DSC03665_5f7c149b-c54a-4183-8d9a-ed7874117591.jpg?v=1706250878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flowers.ae<br>
+        <strong>Type: </strong>Flowers<br>
+        <strong>Price: </strong>
+            3045.00 - 3395.00
+            <a href="https://www.flowers.ae/products/200-yellow-roses-vase">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Impress with this exceptional vase featuring 200</span><span data-mce-fragment="1"> of the finest large-headed Yellow Roses. Individually selected by our skilled florists these are the finest yellow roses.</span></p>
+<p class="p1"><meta charset="utf-8">Gift Set options include:<br><span>* with Balloons 3pcs</span><br><span>* with </span>Mandarin Pepper Candle</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>metacatalog</s:tag>
+    <s:tag>vase</s:tag>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7414407102553</id>
+      <title>Flowers</title>
+      <s:price currency="AED">3045.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7414407102553</id>
+      <title>+ 3 balloons  (+85aed)</title>
+      <s:price currency="AED">3130.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7414407102553</id>
+      <title>+ Candle   (+265aed)</title>
+      <s:price currency="AED">3310.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7414407102553</id>
+      <title>+ 3 balloons + Candle   (+350aed)</title>
+      <s:price currency="AED">3395.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flowers.ae/products/7419840135257</id>
+    <published>2025-02-06T16:06:33+04:00</published>
+    <updated>2025-02-06T16:06:33+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flowers.ae/products/100-yellow-roses-vase"/>
+    <title>100 Yellow Roses  Vase</title>
+    <s:type>Flowers</s:type>
+    <s:vendor>Flowers.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/4847/4713/files/100-1_d249add0-acb7-4901-8d3e-74b891e46f50.jpg?v=1706273206"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flowers.ae<br>
+        <strong>Type: </strong>Flowers<br>
+        <strong>Price: </strong>
+            1675.00 - 2025.00
+            <a href="https://www.flowers.ae/products/100-yellow-roses-vase">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Impress with this exceptional vase featuring 100</span><span data-mce-fragment="1"> of the finest large-headed yellow roses. Individually selected by our skilled florists.</span></p>
+<p><span data-mce-fragment="1"><meta charset="utf-8"> <meta charset="utf-8">Gift Set options include:<br data-mce-fragment="1">* with Balloons 3pcs<br data-mce-fragment="1">* with  <meta charset="utf-8">Mandarin Pepper Candle</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>metacatalog</s:tag>
+    <s:tag>vase</s:tag>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7419840135257</id>
+      <title>Flowers</title>
+      <s:price currency="AED">1675.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7419840135257</id>
+      <title>+ 3 balloons  (+85aed)</title>
+      <s:price currency="AED">1760.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7419840135257</id>
+      <title>+ Candle   (+265aed)</title>
+      <s:price currency="AED">1940.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7419840135257</id>
+      <title>+ 3 balloons + Candle   (+350aed)</title>
+      <s:price currency="AED">2025.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flowers.ae/products/7419862384729</id>
+    <published>2025-02-06T16:06:27+04:00</published>
+    <updated>2025-02-06T16:06:27+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flowers.ae/products/50-yellow-roses-vase"/>
+    <title>50 Yellow Roses  Vase</title>
+    <s:type>Flowers</s:type>
+    <s:vendor>Flowers.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/4847/4713/files/50-1-website_0ab74bfe-eaf8-453b-8f02-6b2e9d5e6c89.jpg?v=1706271590"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flowers.ae<br>
+        <strong>Type: </strong>Flowers<br>
+        <strong>Price: </strong>
+            875.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Impress with this exceptional vase featuring 50 of the finest large-headed Yellow Roses. Individually selected by our skilled florists.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>metacatalog</s:tag>
+    <s:tag>vase</s:tag>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7419862384729</id>
+      <title>Default Title</title>
+      <s:price currency="AED">875.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flowers.ae/products/4332091441241</id>
+    <published>2025-02-06T16:06:20+04:00</published>
+    <updated>2025-02-06T16:06:20+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flowers.ae/products/100-yellow-roses"/>
+    <title>100 Yellow Roses</title>
+    <s:type></s:type>
+    <s:vendor>Flowers.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/4847/4713/files/100L4.jpg?v=1698317327"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flowers.ae<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1275.00 - 1925.00
+            <a href="https://www.flowers.ae/products/100-yellow-roses">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b></b>A marvellous hand-tied arrangement of 100 <span data-mce-fragment="1">long-stemmed</span> Yellow Roses for a loved one! Roses are the ultimate symbol of love.</p>
+<p>Gift Set options include:<br><span>* with Balloons 3pcs</span><br><span>* with Mandarin Pepper Candle</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>has wrapper</s:tag>
+    <s:tag>metacatalog</s:tag>
+    <s:tag>over500</s:tag>
+    <s:tag>VIP</s:tag>
+    <s:tag>VIP Collection</s:tag>
+    <s:tag>yellow</s:tag>
+    <s:tag>yellow rose</s:tag>
+    <s:variant>
+      <id>https://www.flowers.ae/products/4332091441241</id>
+      <title>Grand (1575aed) / Flowers</title>
+      <s:price currency="AED">1575.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/4332091441241</id>
+      <title>Grand (1575aed) / + 3 balloons  (+85aed)</title>
+      <s:price currency="AED">1660.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/4332091441241</id>
+      <title>Grand (1575aed) / + Candle   (+265aed)</title>
+      <s:price currency="AED">1840.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/4332091441241</id>
+      <title>Grand (1575aed) / + 3 balloons + Candle   (+350aed)</title>
+      <s:price currency="AED">1925.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/4332091441241</id>
+      <title>Classic (1275aed) / Flowers</title>
+      <s:price currency="AED">1275.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/4332091441241</id>
+      <title>Classic (1275aed) / + 3 balloons  (+85aed)</title>
+      <s:price currency="AED">1360.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/4332091441241</id>
+      <title>Classic (1275aed) / + Candle   (+265aed)</title>
+      <s:price currency="AED">1540.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/4332091441241</id>
+      <title>Classic (1275aed) / + 3 balloons + Candle   (+350aed)</title>
+      <s:price currency="AED">1625.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flowers.ae/products/4332020236377</id>
+    <published>2025-02-06T16:06:14+04:00</published>
+    <updated>2025-02-06T16:06:14+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flowers.ae/products/50-yellow-roses"/>
+    <title>50 Yellow Roses</title>
+    <s:type></s:type>
+    <s:vendor>flowersae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/4847/4713/files/50L4.jpg?v=1696619239"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>flowersae<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            625.00 - 1075.00
+            <a href="https://www.flowers.ae/products/50-yellow-roses">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A marvellous hand-tied arrangement of 50 <span data-mce-fragment="1">long-stemmed Y</span>ellow Roses for a loved one! Roses are the ultimate symbol of love.</p>
+<p><span data-mce-fragment="1">Gift Set options include:<br data-mce-fragment="1">* with Balloons 3pcs<br data-mce-fragment="1">* with Mandarin Pepper Candle</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>has wrapper</s:tag>
+    <s:tag>metacatalog</s:tag>
+    <s:variant>
+      <id>https://www.flowers.ae/products/4332020236377</id>
+      <title>Grand (725aed) / Flowers</title>
+      <s:price currency="AED">725.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/4332020236377</id>
+      <title>Grand (725aed) / + 3 balloons  (+85aed)</title>
+      <s:price currency="AED">810.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/4332020236377</id>
+      <title>Grand (725aed) / + Candle   (+265aed)</title>
+      <s:price currency="AED">990.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/4332020236377</id>
+      <title>Grand (725aed) / + 3 balloons + Candle   (+350aed)</title>
+      <s:price currency="AED">1075.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/4332020236377</id>
+      <title>Classic (625aed) / Flowers</title>
+      <s:price currency="AED">625.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/4332020236377</id>
+      <title>Classic (625aed) / + 3 balloons  (+85aed)</title>
+      <s:price currency="AED">710.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/4332020236377</id>
+      <title>Classic (625aed) / + Candle   (+265aed)</title>
+      <s:price currency="AED">890.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/4332020236377</id>
+      <title>Classic (625aed) / + 3 balloons + Candle   (+350aed)</title>
+      <s:price currency="AED">975.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flowers.ae/products/4332128010329</id>
+    <published>2025-02-06T16:06:07+04:00</published>
+    <updated>2025-02-06T16:06:07+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flowers.ae/products/25-yellow-roses"/>
+    <title>25 Yellow Roses</title>
+    <s:type></s:type>
+    <s:vendor>Flowers.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/4847/4713/files/HTNewBG020.jpg?v=1690615054"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flowers.ae<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            475.00 - 825.00
+            <a href="https://www.flowers.ae/products/25-yellow-roses">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b></b><span>Nothing says it more than a bouquet of Roses! At Flowers.ae we will select the finest Yellow Roses for a hand-created bouquet that will be sure to send hearts spinning ❤️❤️❤️. Featuring large-headed yellow roses with greeneries, hand-created by our talented team and presented in gift packaging.<br></span></p>
+<p><span>Gift Set options include:<br>* with Balloons 3pcs<br>* with Mandarin Pepper Candle<br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>has wrapper</s:tag>
+    <s:tag>metacatalog</s:tag>
+    <s:tag>yellow</s:tag>
+    <s:tag>yellow rose</s:tag>
+    <s:variant>
+      <id>https://www.flowers.ae/products/4332128010329</id>
+      <title>Flowers</title>
+      <s:price currency="AED">475.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/4332128010329</id>
+      <title>+ 3 balloons  (+85aed)</title>
+      <s:price currency="AED">560.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/4332128010329</id>
+      <title>+ Candle   (+265aed)</title>
+      <s:price currency="AED">740.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/4332128010329</id>
+      <title>+ 3 balloons + Candle   (+350aed)</title>
+      <s:price currency="AED">825.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flowers.ae/products/4298314973273</id>
+    <published>2025-02-06T16:05:55+04:00</published>
+    <updated>2025-02-06T16:05:55+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flowers.ae/products/aurelia"/>
+    <title>Aurelia</title>
+    <s:type></s:type>
+    <s:vendor>Flowers.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/4847/4713/files/Aurora5.jpg?v=1692180672"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flowers.ae<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            735.00 - 1085.00
+            <a href="https://www.flowers.ae/products/aurelia">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b></b><span style="font-family: Helvetica, sans-serif;" face="Helvetica, sans-serif"><span style="font-size: 11.5pt;">A  </span><span style="font-size: 15.3333px;">marvellous</span><span style="font-size: 11.5pt;"> hand-tied arrangement of 50 long-stemmed Yellow Roses for a loved one! Roses are the ultimate symbol of love and are sure to impress.</span></span></p>
+<p><span style="font-family: Helvetica, sans-serif;" face="Helvetica, sans-serif"><span style="font-size: 11.5pt;">Gift Set options include:<br>* with Balloons 3pcs<br>* with Mandarin Pepper Candle<br></span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>has wrapper</s:tag>
+    <s:tag>heart bouquet</s:tag>
+    <s:tag>metacatalog</s:tag>
+    <s:tag>over500</s:tag>
+    <s:variant>
+      <id>https://www.flowers.ae/products/4298314973273</id>
+      <title>Flowers</title>
+      <s:price currency="AED">735.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/4298314973273</id>
+      <title>+ 3 balloons  (+85aed)</title>
+      <s:price currency="AED">820.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/4298314973273</id>
+      <title>+ Candle   (+265aed)</title>
+      <s:price currency="AED">1000.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/4298314973273</id>
+      <title>+ 3 balloons + Candle   (+350aed)</title>
+      <s:price currency="AED">1085.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flowers.ae/products/4187534622809</id>
+    <published>2025-02-06T16:05:49+04:00</published>
+    <updated>2025-02-06T16:05:49+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flowers.ae/products/yellow-heart"/>
+    <title>Yellow Heart</title>
+    <s:type></s:type>
+    <s:vendor>flowersae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/4847/4713/files/Small-Heart5.jpg?v=1691065093"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>flowersae<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            445.00 - 1345.00
+            <a href="https://www.flowers.ae/products/yellow-heart">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Indulge in the timeless elegance of our heart-shaped box arrangement, where vibrant blooms are lovingly nestled within, forming a captivating display of colour and beauty. Perfect for expressing love, gratitude, or simply brightening someone's day with a touch of floral charm.</span><br></p>
+<p><meta charset="utf-8"><meta charset="utf-8"><strong data-mce-fragment="1">Standard:</strong><span data-mce-fragment="1"> Contains between 20 - 25 roses.</span><br data-mce-fragment="1"><strong data-mce-fragment="1">Large:</strong><span data-mce-fragment="1"> Contains between 60 - 70 roses.</span><br></p>
+<p>Gift Set options include:<br>* with Balloons 3pcs<br>* with Mandarin Pepper Candle</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>60min</s:tag>
+    <s:tag>metacatalog</s:tag>
+    <s:tag>under500</s:tag>
+    <s:variant>
+      <id>https://www.flowers.ae/products/4187534622809</id>
+      <title>Standard (445aed) / Flowers</title>
+      <s:price currency="AED">445.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/4187534622809</id>
+      <title>Standard (445aed) / + 3 balloons  (+85aed)</title>
+      <s:price currency="AED">530.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/4187534622809</id>
+      <title>Standard (445aed) / + Candle   (+265aed)</title>
+      <s:price currency="AED">710.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/4187534622809</id>
+      <title>Standard (445aed) / + 3 balloons + Candle   (+350aed)</title>
+      <s:price currency="AED">795.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/4187534622809</id>
+      <title>Large (995aed) / Flowers</title>
+      <s:price currency="AED">995.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/4187534622809</id>
+      <title>Large (995aed) / + 3 balloons  (+85aed)</title>
+      <s:price currency="AED">1080.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/4187534622809</id>
+      <title>Large (995aed) / + Candle   (+265aed)</title>
+      <s:price currency="AED">1260.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/4187534622809</id>
+      <title>Large (995aed) / + 3 balloons + Candle   (+350aed)</title>
+      <s:price currency="AED">1345.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flowers.ae/products/7251595329625</id>
+    <published>2025-02-06T10:42:05+04:00</published>
+    <updated>2025-02-06T10:42:05+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flowers.ae/products/a7bk-hatbox"/>
+    <title>&apos;A7bk&apos; XXXL  Hatbox</title>
+    <s:type></s:type>
+    <s:vendor>Flowers.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/4847/4713/files/Arabic-NEW.jpg?v=1735465990"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flowers.ae<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8995.00 - 9265.00
+            <a href="https://www.flowers.ae/products/a7bk-hatbox">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b></b><span><meta charset="utf-8">"A7bk" is a grand and romantic flower arrangement of red spray roses with the Arabic words "I Love You" in white roses, carefully arranged in an XXXL white hatbox. It is a perfect gift to express your love and admiration to someone special in a unique and meaningful way.</span></p>
+<p><span><meta charset="utf-8">
+<span class="selectable-text copyable-text false xdakrdy">*</span><span class="selectable-text copyable-text false x117nqv4">This arrangement may take a minimum of 3 hours to handcraft. Please order in advance if possible</span><span class="selectable-text copyable-text false xdakrdy">*</span></span></p>
+<div class="p1">Gift Set options include:</div>
+<div class="p1">* with Balloons 6pcs</div>
+<div class="p1">* with Box of Chocolates 28pcs</div>
+<div class="p1">* with Classic Ferrero <meta charset="utf-8"> <span>Cake  </span>&amp; 3 Balloons</div>
+<div class="p1">
+<br><br>
+</div>
+<div class="p1">
+<span></span><br>
+</div>
+<div class="p1">
+<span></span><br>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hatbox xxxl</s:tag>
+    <s:tag>metacatalog</s:tag>
+    <s:tag>over500</s:tag>
+    <s:tag>product-group:test</s:tag>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7251595329625</id>
+      <title>Flowers</title>
+      <s:price currency="AED">8995.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7251595329625</id>
+      <title>+ 6 Balloons  (+145aed)</title>
+      <s:price currency="AED">9140.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7251595329625</id>
+      <title>+ Box of Chocolates (+155aed)</title>
+      <s:price currency="AED">9150.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7251595329625</id>
+      <title>+ 3 Balloons &amp; Cake (+270aed)</title>
+      <s:price currency="AED">9265.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flowers.ae/products/7251587072089</id>
+    <published>2025-02-06T10:41:56+04:00</published>
+    <updated>2025-02-06T10:41:56+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flowers.ae/products/i-love-you-xxxxl-hatbox"/>
+    <title>I Love You XXXL Hatbox</title>
+    <s:type></s:type>
+    <s:vendor>Flowers.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/4847/4713/files/I-love-YouNEW.jpg?v=1735465965"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flowers.ae<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8995.00 - 9265.00
+            <a href="https://www.flowers.ae/products/i-love-you-xxxxl-hatbox">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="group w-full text-gray-800 dark:text-gray-100 border-b border-black/10 dark:border-gray-900/50 bg-gray-50 dark:bg-[#444654]">
+<div class="flex p-4 gap-4 text-base md:gap-6 md:max-w-2xl lg:max-w-xl xl:max-w-3xl md:py-6 lg:px-0 m-auto">
+<div class="relative flex flex-col w-[calc(100%-50px)] gap-1 md:gap-3 lg:w-[calc(100%-115px)]">
+<div class="flex flex-grow flex-col gap-3">
+<div class="min-h-[20px] flex flex-col items-start gap-4 whitespace-pre-wrap break-words">
+<div class="markdown prose w-full break-words dark:prose-invert light">
+<p>Indulge in the ultimate expression of love with our grand flower arrangement of red spray roses, carefully crafted to spell out the words "I love you Anastasia" in pure white roses. This one-of-a-kind arrangement is customisable to your loved one's name or message, making it the perfect declaration of love.</p>
+<p><meta charset="utf-8"><span><span class="selectable-text copyable-text false xdakrdy">*</span><span class="selectable-text copyable-text false x117nqv4">This arrangement may take a minimum of 3 hours to handcraft. Please order in advance if possible</span><span class="selectable-text copyable-text false xdakrdy">*</span></span></p>
+<p><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;">Gift Set options include:<br></span><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;">* with Balloons 6pcs<br></span><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;">* with Box of Chocolates 28pcs<br></span><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;">* with Classic Ferrero <meta charset="utf-8"> <span>Cake </span>&amp; 3 Balloons</span></p>
+<div class="p1">
+<span></span><br>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hatbox xxxl</s:tag>
+    <s:tag>metacatalog</s:tag>
+    <s:tag>over500</s:tag>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7251587072089</id>
+      <title>Flowers</title>
+      <s:price currency="AED">8995.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7251587072089</id>
+      <title>+ 6 Balloons  (+145aed)</title>
+      <s:price currency="AED">9140.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7251587072089</id>
+      <title>+ Box of Chocolates (+155aed)</title>
+      <s:price currency="AED">9150.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7251587072089</id>
+      <title>+ 3 Balloons &amp; Cake (+270aed)</title>
+      <s:price currency="AED">9265.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flowers.ae/products/6901609267289</id>
+    <published>2025-02-06T10:41:48+04:00</published>
+    <updated>2025-02-06T10:41:48+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flowers.ae/products/letter-xxxl"/>
+    <title>Letter  XXXL</title>
+    <s:type></s:type>
+    <s:vendor>Flowers.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/4847/4713/files/Letter-XXXL_1b5a44e9-3e10-45db-9897-5e970b8701a3.jpg?v=1735545092"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flowers.ae<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7795.00 - 11495.00
+            <a href="https://www.flowers.ae/products/letter-xxxl">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8">Our luxurious handmade Standing Letter arrangement <span>is</span> <span>guaranteed to impress</span>. <br></p>
+<p>Wish to customise with different colours? Let us know in the delivery instruction box by noting the rose colour combination you would like to send.  </p>
+<p>Create your loved ones name or message by selecting the number of letters in your message and specify in the 'Add Special Request' box.</p>
+<p><span>The arrangement requires a minimum of 24-hours for preparation.</span></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>arrangement</s:tag>
+    <s:tag>letters</s:tag>
+    <s:tag>metacatalog</s:tag>
+    <s:tag>over500</s:tag>
+    <s:tag>roses</s:tag>
+    <s:tag>standing letter</s:tag>
+    <s:variant>
+      <id>https://www.flowers.ae/products/6901609267289</id>
+      <title>1.5 Meters Tall</title>
+      <s:price currency="AED">11495.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/6901609267289</id>
+      <title>1 Meter Tall</title>
+      <s:price currency="AED">7795.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flowers.ae/products/6655505989721</id>
+    <published>2025-02-06T10:41:42+04:00</published>
+    <updated>2025-02-06T10:41:42+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flowers.ae/products/xxl-word-hatbox"/>
+    <title>XXL Word  Hatbox</title>
+    <s:type></s:type>
+    <s:vendor>Flowers.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/4847/4713/files/I-Love-U_XXL.jpg?v=1734980021"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flowers.ae<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1295.00 - 1645.00
+            <a href="https://www.flowers.ae/products/xxl-word-hatbox">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b></b><span>A beautiful arrangement prepared by our top florist, a perfect gift for her. Multiple colours available.</span><span>Approximately 70-80 pcs spray roses stems, 350-500 pcs of rose buds.<br data-mce-fragment="1">Box size 44x20cm<br></span></p>
+<p><span>Gift Set options include:<br><meta charset="utf-8">* with Balloons 3pcs<br>* with Rose Geranium Candle</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hatbox xxl</s:tag>
+    <s:tag>metacatalog</s:tag>
+    <s:variant>
+      <id>https://www.flowers.ae/products/6655505989721</id>
+      <title>Flowers</title>
+      <s:price currency="AED">1295.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/6655505989721</id>
+      <title>+ 3 balloons  (+85aed)</title>
+      <s:price currency="AED">1380.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/6655505989721</id>
+      <title>+ Candle   (+265aed)</title>
+      <s:price currency="AED">1560.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/6655505989721</id>
+      <title>+ 3 balloons + Candle   (+350aed)</title>
+      <s:price currency="AED">1645.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flowers.ae/products/2095342026841</id>
+    <published>2025-02-06T10:41:36+04:00</published>
+    <updated>2025-02-06T10:41:36+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flowers.ae/products/large-red-letter-heartbox"/>
+    <title>Letter Heart  Large</title>
+    <s:type></s:type>
+    <s:vendor>Flowers.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/4847/4713/files/S_4a2156b6-b027-4691-a50e-7535b9b53fd9.jpg?v=1735552349"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flowers.ae<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            995.00 - 1345.00
+            <a href="https://www.flowers.ae/products/large-red-letter-heartbox">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Our stunning signature letter Heart-Shaped Box is one of our most requested arrangements. </span><span>Our classic heart-shaped box comes with a red rose background and white lettering.</span></p>
+<p><span>Contains between 60 - 70 roses.</span></p>
+<p><span>However you can customise in a range of different colours; Red, White, Pink, Yellow and Orange. You can note your preferred color and letter in the delivery instruction box and we will take care of the rest.</span></p>
+<p><span>Gift Set options include:<br>* with Balloons 3pcs<br>* with Rose Geranium Candle <br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>letters</s:tag>
+    <s:tag>metacatalog</s:tag>
+    <s:variant>
+      <id>https://www.flowers.ae/products/2095342026841</id>
+      <title>Flowers</title>
+      <s:price currency="AED">995.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/2095342026841</id>
+      <title>+ 3 balloons  (+85aed)</title>
+      <s:price currency="AED">1080.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/2095342026841</id>
+      <title>+ Candle   (+265aed)</title>
+      <s:price currency="AED">1260.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/2095342026841</id>
+      <title>+ 3 balloons + Candle   (+350aed)</title>
+      <s:price currency="AED">1345.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flowers.ae/products/4381743349849</id>
+    <published>2025-02-06T10:41:30+04:00</published>
+    <updated>2025-02-06T10:41:30+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flowers.ae/products/luxury-standing-letter"/>
+    <title>Luxury Letter</title>
+    <s:type></s:type>
+    <s:vendor>Flowers.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/4847/4713/files/DSC00102.jpg?v=1691735150"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flowers.ae<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            845.00 - 1195.00
+            <a href="https://www.flowers.ae/products/luxury-standing-letter">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b></b>Our ready to order luxury 40cm standing letter of your choice, A to Z wooden arrangement combines red, white, pink, yellow and orange stunning roses.<br></p>
+<p>Wish to customise with different colours? Let us know in the delivery instruction box by noting the rose colour combination you would like to send. <br><br data-mce-fragment="1">Create your loved ones name or message by selecting the number of letters in your message and specify in the 'Add Special Request' box. For example LOVE is four letters, so select that quantity (4) and note the letters desired in the special request box. </p>
+<p>Looking for a taller letter selection? WhatsApp us for more information.<br></p>
+<p>Gift Set options include:<br><span>* with Balloons 3pcs</span><br><span>* with Rose Geranium Candle</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>letters</s:tag>
+    <s:tag>metacatalog</s:tag>
+    <s:tag>over500</s:tag>
+    <s:tag>standing letter</s:tag>
+    <s:variant>
+      <id>https://www.flowers.ae/products/4381743349849</id>
+      <title>Flowers</title>
+      <s:price currency="AED">845.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/4381743349849</id>
+      <title>+ 3 balloons  (+85aed)</title>
+      <s:price currency="AED">930.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/4381743349849</id>
+      <title>+ Candle   (+265aed)</title>
+      <s:price currency="AED">1110.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/4381743349849</id>
+      <title>+ 3 balloons + Candle   (+350aed)</title>
+      <s:price currency="AED">1195.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

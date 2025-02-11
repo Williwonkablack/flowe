@@ -1,0 +1,1882 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.flowers.ae/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.flowers.ae/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.flowers.ae/collections/valentines-day-flowers.atom"/>
+  <title>Flowers.ae</title>
+  <updated>2025-01-11T13:04:53+04:00</updated>
+  <author>
+    <name>Flowers.ae</name>
+  </author>
+  <entry>
+    <id>https://www.flowers.ae/products/7889520296025</id>
+    <published>2025-01-11T13:04:53+04:00</published>
+    <updated>2025-01-11T13:04:53+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flowers.ae/products/blush-roses-with-greens"/>
+    <title>Valentine Blush Roses with greens - Hatbox</title>
+    <s:type></s:type>
+    <s:vendor>Flowers.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/4847/4713/files/ST-Blush_8a28cb83-f787-4b84-a8a0-4cbc55d92bc9.jpg?v=1736500957"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flowers.ae<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            325.00 - 775.00
+            <a href="https://www.flowers.ae/products/blush-roses-with-greens">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A stunning mix of fuchsia, pink, and purple blush roses with lush green fillers in a chic hatbox—perfect for celebrating love this Valentine’s Day.</p>
+<p><strong>Standard</strong>-12 roses<br><strong>Large</strong>-18 roses<br><strong>Extra Large</strong>- 24 roses<span><br></span></p>
+<p><meta charset="utf-8"><span>Gift Set options include:<br>* with Balloon 1pc<br>* with Box of Chocolates 6pcs<br>* with Teddy</span></p>
+<p><span><strong>Please note</strong>:<br>* Our video preview service is not available from the 12th to the 15th February.<br>** Our Timing services are not available from 13th to 15th of February but we aim to have Valentine orders delivered before 16:00.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>60min</s:tag>
+    <s:tag>hatbox</s:tag>
+    <s:tag>metacatalog</s:tag>
+    <s:tag>under500</s:tag>
+    <s:tag>valentines-2025</s:tag>
+    <s:tag>vday</s:tag>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889520296025</id>
+      <title>Standard (325aed) / Flowers</title>
+      <s:price currency="AED">325.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889520296025</id>
+      <title>Standard (325aed) / + 1 Balloons  (+30aed)</title>
+      <s:price currency="AED">355.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889520296025</id>
+      <title>Standard (325aed) / + Box of Chocolates 6pcs (+55aed)</title>
+      <s:price currency="AED">380.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889520296025</id>
+      <title>Standard (325aed) / + Teddy  (+150aed)</title>
+      <s:price currency="AED">475.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889520296025</id>
+      <title>Large (495aed) / Flowers</title>
+      <s:price currency="AED">495.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889520296025</id>
+      <title>Large (495aed) / + 1 Balloons  (+30aed)</title>
+      <s:price currency="AED">525.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889520296025</id>
+      <title>Large (495aed) / + Box of Chocolates 6pcs (+55aed)</title>
+      <s:price currency="AED">550.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889520296025</id>
+      <title>Large (495aed) / + Teddy  (+150aed)</title>
+      <s:price currency="AED">645.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889520296025</id>
+      <title>Extra Large (625aed) / Flowers</title>
+      <s:price currency="AED">625.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889520296025</id>
+      <title>Extra Large (625aed) / + 1 Balloons  (+30aed)</title>
+      <s:price currency="AED">655.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889520296025</id>
+      <title>Extra Large (625aed) / + Box of Chocolates 6pcs (+55aed)</title>
+      <s:price currency="AED">680.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889520296025</id>
+      <title>Extra Large (625aed) / + Teddy  (+150aed)</title>
+      <s:price currency="AED">775.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flowers.ae/products/7492914282585</id>
+    <published>2025-01-11T13:04:48+04:00</published>
+    <updated>2025-01-11T13:04:48+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flowers.ae/products/white-roses-with-greens"/>
+    <title>Valentine White Roses with greens - Hatbox</title>
+    <s:type></s:type>
+    <s:vendor>Flowers.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/4847/4713/files/ST-White_35be124a-66c8-4ce3-8190-d5da3c33d666.jpg?v=1736500906"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flowers.ae<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            325.00 - 775.00
+            <a href="https://www.flowers.ae/products/white-roses-with-greens">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-size: 0.875rem;">Graceful white roses and lush green fillers in a chic hatbox—perfect for celebrating love this Valentine’s Day.</span></p>
+<p><strong>Standard</strong>-12 roses<br><strong>Large</strong>-18 roses<br><strong>Extra Large</strong>- 24 roses</p>
+<p><meta charset="utf-8"><span>Gift Set options include:<br>* with Balloon 1pc<br>* with Box of Chocolates 6pcs<br>* with Teddy</span></p>
+<p><span><strong>Please note</strong>:<br>* Our video preview service is not available from the 12th to the 15th February.<br>** Our Timing services are not available from 13th to 15th of February but we aim to have Valentine orders delivered before 16:00.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>60min</s:tag>
+    <s:tag>hatbox</s:tag>
+    <s:tag>metacatalog</s:tag>
+    <s:tag>under500</s:tag>
+    <s:tag>valentines-2025</s:tag>
+    <s:tag>vday</s:tag>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7492914282585</id>
+      <title>Standard (325aed) / Flowers</title>
+      <s:price currency="AED">325.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7492914282585</id>
+      <title>Standard (325aed) / + 1 Balloons  (+30aed)</title>
+      <s:price currency="AED">355.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7492914282585</id>
+      <title>Standard (325aed) / + Box of Chocolates 6pcs (+55aed)</title>
+      <s:price currency="AED">380.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7492914282585</id>
+      <title>Standard (325aed) / + Teddy  (+150aed)</title>
+      <s:price currency="AED">475.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7492914282585</id>
+      <title>Large (495aed) / Flowers</title>
+      <s:price currency="AED">495.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7492914282585</id>
+      <title>Large (495aed) / + 1 Balloons  (+30aed)</title>
+      <s:price currency="AED">525.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7492914282585</id>
+      <title>Large (495aed) / + Box of Chocolates 6pcs (+55aed)</title>
+      <s:price currency="AED">550.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7492914282585</id>
+      <title>Large (495aed) / + Teddy  (+150aed)</title>
+      <s:price currency="AED">645.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7492914282585</id>
+      <title>Extra Large (625aed) / Flowers</title>
+      <s:price currency="AED">625.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7492914282585</id>
+      <title>Extra Large (625aed) / + 1 Balloons  (+30aed)</title>
+      <s:price currency="AED">655.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7492914282585</id>
+      <title>Extra Large (625aed) / + Box of Chocolates 6pcs (+55aed)</title>
+      <s:price currency="AED">680.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7492914282585</id>
+      <title>Extra Large (625aed) / + Teddy  (+150aed)</title>
+      <s:price currency="AED">775.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flowers.ae/products/7492914217049</id>
+    <published>2025-01-11T13:04:42+04:00</published>
+    <updated>2025-01-11T13:04:42+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flowers.ae/products/pink-roses-with-greens"/>
+    <title>Valentine Pink Roses with greens - Hatbox</title>
+    <s:type></s:type>
+    <s:vendor>Flowers.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/4847/4713/files/ST-Pink_45118dee-5ed3-4993-9820-4e298692d240.jpg?v=1736500898"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flowers.ae<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            325.00 - 775.00
+            <a href="https://www.flowers.ae/products/pink-roses-with-greens">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Delicate pink roses and lush green fillers in a chic hatbox—perfect for celebrating love this Valentine’s Day.</p>
+<p><span><strong>Standard: </strong>12 roses<br></span><span><strong>Large: </strong>18 roses<br></span><span><strong>Extra Large:</strong>  24 roses</span></p>
+<p><span><meta charset="utf-8">Gift Set options include:<br>* with Balloon 1pc<br>* with Box of Chocolates 6pcs<br>* with Teddy</span></p>
+<p><span><strong>Please note</strong>:<br>* Our video preview service is not available from the 12th to the 15th February.<br>** Our Timing services are not available from 13th to 15th of February but we aim to have Valentine orders delivered before 16:00.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>60min</s:tag>
+    <s:tag>hatbox</s:tag>
+    <s:tag>metacatalog</s:tag>
+    <s:tag>under500</s:tag>
+    <s:tag>valentines-2025</s:tag>
+    <s:tag>vday</s:tag>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7492914217049</id>
+      <title>Standard (325aed) / Flowers</title>
+      <s:price currency="AED">325.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7492914217049</id>
+      <title>Standard (325aed) / + 1 Balloons  (+30aed)</title>
+      <s:price currency="AED">355.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7492914217049</id>
+      <title>Standard (325aed) / + Box of Chocolates 6pcs (+55aed)</title>
+      <s:price currency="AED">380.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7492914217049</id>
+      <title>Standard (325aed) / + Teddy  (+150aed)</title>
+      <s:price currency="AED">475.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7492914217049</id>
+      <title>Large (495aed) / Flowers</title>
+      <s:price currency="AED">495.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7492914217049</id>
+      <title>Large (495aed) / + 1 Balloons  (+30aed)</title>
+      <s:price currency="AED">525.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7492914217049</id>
+      <title>Large (495aed) / + Box of Chocolates 6pcs (+55aed)</title>
+      <s:price currency="AED">550.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7492914217049</id>
+      <title>Large (495aed) / + Teddy  (+150aed)</title>
+      <s:price currency="AED">645.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7492914217049</id>
+      <title>Extra Large (625aed) / Flowers</title>
+      <s:price currency="AED">625.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7492914217049</id>
+      <title>Extra Large (625aed) / + 1 Balloons  (+30aed)</title>
+      <s:price currency="AED">655.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7492914217049</id>
+      <title>Extra Large (625aed) / + Box of Chocolates 6pcs (+55aed)</title>
+      <s:price currency="AED">680.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7492914217049</id>
+      <title>Extra Large (625aed) / + Teddy  (+150aed)</title>
+      <s:price currency="AED">775.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flowers.ae/products/7492914118745</id>
+    <published>2025-01-11T13:04:36+04:00</published>
+    <updated>2025-01-11T13:04:36+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flowers.ae/products/red-roses-with-greens"/>
+    <title>Valentine Red Roses with greens - Hatbox</title>
+    <s:type></s:type>
+    <s:vendor>Flowers.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/4847/4713/files/ST-Red_17373f45-c862-4318-b912-242423ddff65.jpg?v=1736500886"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flowers.ae<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            325.00 - 775.00
+            <a href="https://www.flowers.ae/products/red-roses-with-greens">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Elegant red roses and lush green fillers in a chic hatbox—perfect for expressing love this Valentine’s Day.<br></p>
+<p><span><strong>Standard: </strong>12 roses<br></span><span><strong>Large: </strong>18 roses<br></span><span><strong>Extra Large:</strong>  24 roses</span></p>
+<p><span><meta charset="utf-8">Gift Set options include:<br>* with Balloon 1pc<br>* with Box of Chocolates 6pcs<br>* with Teddy</span></p>
+<p><span><strong>Please note</strong>:<br>* Our video preview service is not available from the 12th to the 15th February.<br>** Our Timing services are not available from 13th to 15th of February but we aim to have Valentine orders delivered before 16:00.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>60min</s:tag>
+    <s:tag>hatbox</s:tag>
+    <s:tag>metacatalog</s:tag>
+    <s:tag>under500</s:tag>
+    <s:tag>valentines-2025</s:tag>
+    <s:tag>vday</s:tag>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7492914118745</id>
+      <title>Standard (325aed) / Flowers</title>
+      <s:price currency="AED">325.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7492914118745</id>
+      <title>Standard (325aed) / + 1 Balloons  (+30aed)</title>
+      <s:price currency="AED">355.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7492914118745</id>
+      <title>Standard (325aed) / + Box of Chocolates 6pcs (+55aed)</title>
+      <s:price currency="AED">380.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7492914118745</id>
+      <title>Standard (325aed) / + Teddy  (+150aed)</title>
+      <s:price currency="AED">475.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7492914118745</id>
+      <title>Large (495aed) / Flowers</title>
+      <s:price currency="AED">495.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7492914118745</id>
+      <title>Large (495aed) / + 1 Balloons  (+30aed)</title>
+      <s:price currency="AED">525.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7492914118745</id>
+      <title>Large (495aed) / + Box of Chocolates 6pcs (+55aed)</title>
+      <s:price currency="AED">550.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7492914118745</id>
+      <title>Large (495aed) / + Teddy  (+150aed)</title>
+      <s:price currency="AED">645.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7492914118745</id>
+      <title>Extra Large (625) / Flowers</title>
+      <s:price currency="AED">625.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7492914118745</id>
+      <title>Extra Large (625) / + 1 Balloons  (+30aed)</title>
+      <s:price currency="AED">655.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7492914118745</id>
+      <title>Extra Large (625) / + Box of Chocolates 6pcs (+55aed)</title>
+      <s:price currency="AED">680.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7492914118745</id>
+      <title>Extra Large (625) / + Teddy  (+150aed)</title>
+      <s:price currency="AED">775.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flowers.ae/products/7889924292697</id>
+    <published>2025-01-09T19:56:52+04:00</published>
+    <updated>2025-01-09T19:56:52+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flowers.ae/products/valentine-perfect-white-vase"/>
+    <title>Valentine Perfect White Vase</title>
+    <s:type></s:type>
+    <s:vendor>Flowers.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/4847/4713/files/Large-White.jpg?v=1737619064"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flowers.ae<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            345.00 - 645.00
+            <a href="https://www.flowers.ae/products/valentine-perfect-white-vase">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span>An elegant white arrangement of Ohara and Vendela roses with wax flowers and greenery. It symbolizes purity, love, and new beginnings, making it perfect for Valentine's Day.<br></span><br><br></p>
+<div><span><strong>Please note</strong>:<br>* Our video preview service is not available from the 12th to the 15th February.<br>** Our Timing services are not available from 13th to 15th of February but we aim to have Valentine orders delivered before 16:00.</span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>60min</s:tag>
+    <s:tag>metacatalog</s:tag>
+    <s:tag>valentines-2025</s:tag>
+    <s:tag>vase</s:tag>
+    <s:tag>vase arrangement</s:tag>
+    <s:tag>vday</s:tag>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889924292697</id>
+      <title>Standard (345aed)</title>
+      <s:price currency="AED">345.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889924292697</id>
+      <title>Large (525aed)</title>
+      <s:price currency="AED">525.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889924292697</id>
+      <title>Extra Large (645aed)</title>
+      <s:price currency="AED">645.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flowers.ae/products/7889924227161</id>
+    <published>2025-01-09T19:10:35+04:00</published>
+    <updated>2025-01-09T19:10:35+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flowers.ae/products/valentine-pink-perfection-vase"/>
+    <title>Valentine Pink Perfection Vase</title>
+    <s:type></s:type>
+    <s:vendor>Flowers.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/4847/4713/files/St-Pink_bfddc1bc-e2d7-472b-8678-5588ecdf4371.jpg?v=1736430709"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flowers.ae<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            345.00 - 645.00
+            <a href="https://www.flowers.ae/products/valentine-pink-perfection-vase">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8">Celebrate Valentine’s Day with our Pink Perfection arrangement, featuring cheerful Gerbera daisies and romantic Candy Pink Roses in a stunning pink display.<span><br><br></span></p>
+<p><span><strong>Please note</strong>:<br>* Our video preview service is not available from the 12th to the 15th February.<br>** Our Timing services are not available from 13th to 15th of February but we aim to have Valentine orders delivered before 16:00.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>60min</s:tag>
+    <s:tag>metacatalog</s:tag>
+    <s:tag>valentines-2025</s:tag>
+    <s:tag>vase</s:tag>
+    <s:tag>vase arrangement</s:tag>
+    <s:tag>vday</s:tag>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889924227161</id>
+      <title>Standard (345aed)</title>
+      <s:price currency="AED">345.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889924227161</id>
+      <title>Large (525aed)</title>
+      <s:price currency="AED">525.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889924227161</id>
+      <title>Extra Large (645aed)</title>
+      <s:price currency="AED">645.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flowers.ae/products/7889924194393</id>
+    <published>2025-01-09T19:10:28+04:00</published>
+    <updated>2025-01-09T19:10:28+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flowers.ae/products/valentine-vibrant-vase"/>
+    <title>Valentine Vibrant Vase</title>
+    <s:type></s:type>
+    <s:vendor>Flowers.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/4847/4713/files/St-Vibrant_f4c12f3c-0429-4f55-804d-837475599753.jpg?v=1736430747"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flowers.ae<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            345.00 - 645.00
+            <a href="https://www.flowers.ae/products/valentine-vibrant-vase">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Brighten Valentine’s Day with vibrant sunflowers, colorful roses, carnations, statice, and lush greenery for an unforgettable gift for your special someone.<br><span><br><br></span></p>
+<p><span><strong>Please note</strong>:<br>* Our video preview service is not available from the 12th to the 15th February.<br>** Our Timing services are not available from 13th to 15th of February but we aim to have Valentine orders delivered before 16:00.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>60min</s:tag>
+    <s:tag>metacatalog</s:tag>
+    <s:tag>valentines-2025</s:tag>
+    <s:tag>vase</s:tag>
+    <s:tag>vase arrangement</s:tag>
+    <s:tag>vday</s:tag>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889924194393</id>
+      <title>Standard (345aed)</title>
+      <s:price currency="AED">345.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889924194393</id>
+      <title>Large (525aed)</title>
+      <s:price currency="AED">525.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889924194393</id>
+      <title>Extra Large (645aed)</title>
+      <s:price currency="AED">645.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flowers.ae/products/7889924259929</id>
+    <published>2025-01-09T18:25:42+04:00</published>
+    <updated>2025-01-09T18:25:42+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flowers.ae/products/valentine-lavender-floral-vase"/>
+    <title>Valentine Lavender Floral Vase</title>
+    <s:type></s:type>
+    <s:vendor>Flowers.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/4847/4713/files/St-Lavneder.jpg?v=1736430801"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flowers.ae<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            345.00 - 645.00
+            <a href="https://www.flowers.ae/products/valentine-lavender-floral-vase">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b></b><span>Celebrate Valentine's Day with our elegant Lavender Floral arrangement, featuring Rose Deep Purple,Vendela, White Roses, Statice Purple, and Eucalyptus in soothing purple hues.<br></span><span><br><br></span></p>
+<p><span><strong>Please note</strong>:<br>* Our video preview service is not available from the 12th to the 15th February.<br>** Our Timing services are not available from 13th to 15th of February but we aim to have Valentine orders delivered before 16:00.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>60min</s:tag>
+    <s:tag>metacatalog</s:tag>
+    <s:tag>valentines-2025</s:tag>
+    <s:tag>vase</s:tag>
+    <s:tag>vase arrangement</s:tag>
+    <s:tag>vday</s:tag>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889924259929</id>
+      <title>Standard (345aed)</title>
+      <s:price currency="AED">345.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889924259929</id>
+      <title>Large (525aed)</title>
+      <s:price currency="AED">525.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889924259929</id>
+      <title>Extra Large (645aed)</title>
+      <s:price currency="AED">645.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flowers.ae/products/7466190143577</id>
+    <published>2024-12-27T16:58:49+04:00</published>
+    <updated>2024-12-27T16:58:49+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flowers.ae/products/valentine-999-red-roses-hatbox"/>
+    <title>Valentine 999 Red Roses - Hatbox</title>
+    <s:type></s:type>
+    <s:vendor>Flowers.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/4847/4713/files/999NEW123_a2c2ff62-a10c-4673-bfd0-6292a8843f0d.jpg?v=1735370585"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flowers.ae<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13995.00 - 14415.00
+            <a href="https://www.flowers.ae/products/valentine-999-red-roses-hatbox">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8">Presenting our most impressive Valentine’s Day arrangement yet—999 red roses! This awe-inspiring display, expertly arranged in a hatbox, is the ultimate statement of love and admiration, perfect for making a lasting impression on any special occasion.</p>
+<p><meta charset="utf-8"><span><span class="selectable-text copyable-text false xdakrdy">*</span><span class="selectable-text copyable-text false x117nqv4">This arrangement may take a minimum of 4 hours to handcraft. Please order in advance if possible</span><span class="selectable-text copyable-text false xdakrdy">*</span></span></p>
+<p><meta charset="utf-8"><span>Gift Set options include:<br>* with Balloon 1pc<br>* with Box of Chocolates 28pcs<br>* with Rose Geranium Candle<span class="Apple-converted-space"> </span> &amp; <meta charset="utf-8">Chocolates 28pcs</span></p>
+<p><span><strong>Please note</strong>:<br>* Our video preview service is not available from the 12th to the 15th February.<br>** Our Timing services are not available from 13th to 15th of February but we aim to have Valentine orders delivered before 16:00.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hatbox-tall-xxl</s:tag>
+    <s:tag>metacatalog</s:tag>
+    <s:tag>red roses</s:tag>
+    <s:tag>Tall Hatbox Color</s:tag>
+    <s:tag>valentine</s:tag>
+    <s:tag>valentines-2025</s:tag>
+    <s:tag>vday</s:tag>
+    <s:tag>xxl-tall-hatbox</s:tag>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7466190143577</id>
+      <title>Flowers</title>
+      <s:price currency="AED">13995.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7466190143577</id>
+      <title>+ 1 Balloons  (+30aed)</title>
+      <s:price currency="AED">14025.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7466190143577</id>
+      <title>+ Box of Chocolates 28pcs (+155aed)</title>
+      <s:price currency="AED">14150.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7466190143577</id>
+      <title>+ Candle &amp; Box of Chocolates 28pcs (+420aed)</title>
+      <s:price currency="AED">14415.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flowers.ae/products/7466189914201</id>
+    <published>2024-12-27T16:58:45+04:00</published>
+    <updated>2024-12-27T16:58:45+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flowers.ae/products/valentine-500-red-roses-xxl"/>
+    <title>Valentine 500 Red Roses - Hatbox</title>
+    <s:type></s:type>
+    <s:vendor>Flowers.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/4847/4713/files/500-Long-Hatbox_27445b3a-c2e6-4876-b08c-f9645f9c47cd.jpg?v=1735455154"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flowers.ae<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7375.00 - 7795.00
+            <a href="https://www.flowers.ae/products/valentine-500-red-roses-xxl">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>An exquisite arrangement of 500 red roses in a hatbox— a perfect Valentine’s Day gift and a timeless expression of love.<br></p>
+<p><meta charset="utf-8"><span><span class="selectable-text copyable-text false xdakrdy">*</span><span class="selectable-text copyable-text false x117nqv4">This arrangement may take a minimum of 3 hours to handcraft. Please order in advance if possible</span><span class="selectable-text copyable-text false xdakrdy">*</span></span></p>
+<p><meta charset="utf-8"><span>Gift Set options include:<br>* with Balloon 1pc<br>* with Box of Chocolates 28pcs<br>* with Rose Geranium Candle<span class="Apple-converted-space"> </span> &amp; <meta charset="utf-8">Chocolates 28pcs</span></p>
+<p><span><strong>Please note</strong>:<br>* Our video preview service is not available from the 12th to the 15th February.<br>** Our Timing services are not available from 13th to 15th of February but we aim to have Valentine orders delivered before 16:00.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hatbox-tall-xxl</s:tag>
+    <s:tag>metacatalog</s:tag>
+    <s:tag>valentines day</s:tag>
+    <s:tag>valentines day flowers</s:tag>
+    <s:tag>valentines-2025</s:tag>
+    <s:tag>vday</s:tag>
+    <s:tag>xxl-tall-hatbox</s:tag>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7466189914201</id>
+      <title>Flowers</title>
+      <s:price currency="AED">7375.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7466189914201</id>
+      <title>+ 1 Balloons  (+30aed)</title>
+      <s:price currency="AED">7405.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7466189914201</id>
+      <title>+ Box of Chocolates 28pcs (+155aed)</title>
+      <s:price currency="AED">7530.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7466189914201</id>
+      <title>+ Candle &amp; Box of Chocolates 28pcs (+420aed)</title>
+      <s:price currency="AED">7795.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flowers.ae/products/7889563648089</id>
+    <published>2024-12-27T16:45:47+04:00</published>
+    <updated>2024-12-27T16:45:47+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flowers.ae/products/valentine-heart-xxxl-hatbox"/>
+    <title>Valentine 3D Heart - XXXL Hatbox</title>
+    <s:type></s:type>
+    <s:vendor>Flowers.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/4847/4713/files/3D-Heart_aaddfb8a-b232-4290-8aff-143201dfce03.jpg?v=1735455700"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flowers.ae<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10495.00 - 10975.00
+            <a href="https://www.flowers.ae/products/valentine-heart-xxxl-hatbox">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A stunning heart-shaped arrangement of red roses in our XXXL hatbox— the ultimate Valentine’s Day gift that symbolizes love and makes a lasting impression.<br></p>
+<p><meta charset="utf-8"><span>Gift Set options include:<br>* with Balloon 1pc<br>* with Box of Chocolates 28pcs<br>* with Rose Geranium Candle &amp; <meta charset="utf-8">Chocolates 28pcs<br></span></p>
+<p><span><img><meta charset="utf-8"> <span class="selectable-text copyable-text false xdakrdy">*</span><span class="selectable-text copyable-text false x117nqv4">This arrangement may take a minimum of 3 hours to handcraft. Please order in advance if possible</span><span class="selectable-text copyable-text false xdakrdy">*</span></span></p>
+<p><span><strong>Please note</strong>:<br>* Our video preview service is not available from the 12th to the 15th February.<br>** Our Timing services are not available from 13th to 15th of February but we aim to have Valentine orders delivered before 16:00.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hatbox xxl</s:tag>
+    <s:tag>metacatalog</s:tag>
+    <s:tag>valentines day</s:tag>
+    <s:tag>valentines day flowers</s:tag>
+    <s:tag>valentines-2025</s:tag>
+    <s:tag>vday</s:tag>
+    <s:tag>VIP</s:tag>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889563648089</id>
+      <title>Flowers</title>
+      <s:price currency="AED">10495.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889563648089</id>
+      <title>+ 1 Balloons  (+30aed)</title>
+      <s:price currency="AED">10975.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889563648089</id>
+      <title>+ Box of Chocolates 28pcs (+155aed)</title>
+      <s:price currency="AED">10650.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889563648089</id>
+      <title>+ Candle &amp; Box of Chocolates 28pcs (+420aed)</title>
+      <s:price currency="AED">10915.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flowers.ae/products/7466189750361</id>
+    <published>2024-12-27T16:45:36+04:00</published>
+    <updated>2024-12-27T16:45:36+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flowers.ae/products/valentine-365-red-roses-hatbox"/>
+    <title>Valentine 365 Red Roses - Hatbox</title>
+    <s:type></s:type>
+    <s:vendor>Flowers.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/4847/4713/files/Red365_d97262fd-178b-498d-becf-76c416b0b4fa.jpg?v=1735820046"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flowers.ae<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4995.00 - 5415.00
+            <a href="https://www.flowers.ae/products/valentine-365-red-roses-hatbox">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A truly stunning 365 red roses in a hatbox— the ultimate symbol of love for your special someone this Valentine’s Day.<br></p>
+<p><meta charset="utf-8"><span class="selectable-text copyable-text false xdakrdy">*</span><span class="selectable-text copyable-text false x117nqv4">This arrangement may take a minimum of 2 hours to handcraft. Please order in advance if possible</span><span class="selectable-text copyable-text false xdakrdy">*</span></p>
+<p><span><meta charset="utf-8">Gift Set options include:<br>* with Balloon 1pc<br>* with Box of Chocolates 28pcs<br>* with Rose Geranium Candle<span class="Apple-converted-space"> </span> &amp; <meta charset="utf-8">Chocolates 28pcs<br></span></p>
+<p><span><strong>Please note</strong>:<br>* Our video preview service is not available from the 12th to the 15th February.<br>** Our Timing services are not available from 13th to 15th of February but we aim to have Valentine orders delivered before 16:00.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hatbox</s:tag>
+    <s:tag>valentines day</s:tag>
+    <s:tag>valentines day flowers</s:tag>
+    <s:tag>valentines-2025</s:tag>
+    <s:tag>vday</s:tag>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7466189750361</id>
+      <title>Flowers</title>
+      <s:price currency="AED">4995.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7466189750361</id>
+      <title>+ 1 Balloons  (+30aed)</title>
+      <s:price currency="AED">5025.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7466189750361</id>
+      <title>+ Box of Chocolates 28pcs (+155aed)</title>
+      <s:price currency="AED">5150.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7466189750361</id>
+      <title>+ Candle &amp; Box of Chocolates 28pcs (+420aed)</title>
+      <s:price currency="AED">5415.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flowers.ae/products/7889524719705</id>
+    <published>2024-12-27T16:44:53+04:00</published>
+    <updated>2024-12-27T16:44:53+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flowers.ae/products/valentine-500-blush-roses-xxxl"/>
+    <title>Valentine 500 Blush Roses  XXXL</title>
+    <s:type></s:type>
+    <s:vendor>Flowers.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/4847/4713/files/Blush_eddcbff3-2099-480b-beb1-e4eeaba5ee6a.jpg?v=1735451703"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flowers.ae<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7875.00 - 8180.00
+            <a href="https://www.flowers.ae/products/valentine-500-blush-roses-xxxl">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Indulge in luxury this Valentine’s Day with 500 blush roses, a stunning mix of fuchsia, pink and purple, arranged in our signature XXXL white hatbox— a truly unforgettable gift.</p>
+<div class="p1"><span><meta charset="utf-8">
+<span class="selectable-text copyable-text false xdakrdy">*</span><span class="selectable-text copyable-text false x117nqv4">This arrangement may take a minimum of 2 hours to handcraft. Please order in advance if possible</span><span class="selectable-text copyable-text false xdakrdy">*</span></span></div>
+<div class="p1">
+<span></span><br>
+</div>
+<div class="p1"><span>Gift Set options include:<br>* with Balloon 1pc<br>* with Box of Chocolates 28pcs<br>* with Teddy &amp; Chocolates 28pcs</span></div>
+<div class="p1">
+<span></span><br>
+</div>
+<div class="p1">
+<p><span><strong>Please note</strong>:<br>* Our video preview service is not available from the 12th to the 15th February.<br>** Our Timing services are not available from 13th to 15th of February but we aim to have Valentine orders delivered before 16:00.</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hatbox xxxl</s:tag>
+    <s:tag>metacatalog</s:tag>
+    <s:tag>over500</s:tag>
+    <s:tag>valentines-2025</s:tag>
+    <s:tag>vday</s:tag>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889524719705</id>
+      <title>Flowers</title>
+      <s:price currency="AED">7875.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889524719705</id>
+      <title>+ 1 Balloons  (+30aed)</title>
+      <s:price currency="AED">7905.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889524719705</id>
+      <title>+ Box of Chocolates 28pcs (+155aed)</title>
+      <s:price currency="AED">8030.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889524719705</id>
+      <title>+ Teddy &amp; Box of Chocolates 28pcs (+305aed)</title>
+      <s:price currency="AED">8180.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flowers.ae/products/7889550540889</id>
+    <published>2024-12-27T16:44:49+04:00</published>
+    <updated>2024-12-27T16:44:49+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flowers.ae/products/valentine-500-white-roses-xxxl"/>
+    <title>Valentine 500 White Roses XXXL</title>
+    <s:type></s:type>
+    <s:vendor>Flowers.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/4847/4713/files/White_895bf2ec-a305-44b4-abfb-c1309d482f6f.jpg?v=1735451684"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flowers.ae<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7875.00 - 8180.00
+            <a href="https://www.flowers.ae/products/valentine-500-white-roses-xxxl">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Indulge in luxury this Valentine’s Day with 500 white roses from Holland, arranged in our signature XXXL white hatbox, a truly unforgettable gift.<br><br><span><meta charset="utf-8">
+<span class="selectable-text copyable-text false xdakrdy">*</span><span class="selectable-text copyable-text false x117nqv4">This arrangement may take a minimum of 2 hours to handcraft. Please order in advance if possible</span><span class="selectable-text copyable-text false xdakrdy">*</span></span><br></p>
+<p><span>Gift Set options include:<br>* with Balloon 1pc<br>* with Box of Chocolates 28pcs<br>* with Teddy &amp; Chocolates 28pcs</span></p>
+<div class="p1">
+<p><span><strong>Please note</strong>:<br>* Our video preview service is not available from the 12th to the 15th February.<br>** Our Timing services are not available from 13th to 15th of February but we aim to have Valentine orders delivered before 16:00.</span><span></span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hatbox xxxl</s:tag>
+    <s:tag>metacatalog</s:tag>
+    <s:tag>over500</s:tag>
+    <s:tag>valentines-2025</s:tag>
+    <s:tag>vday</s:tag>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889550540889</id>
+      <title>Flowers</title>
+      <s:price currency="AED">7875.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889550540889</id>
+      <title>+ 1 Balloons  (+30aed)</title>
+      <s:price currency="AED">7905.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889550540889</id>
+      <title>+ Box of Chocolates 28pcs (+155aed)</title>
+      <s:price currency="AED">8030.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889550540889</id>
+      <title>+ Teddy &amp; Box of Chocolates 28pcs (+305aed)</title>
+      <s:price currency="AED">8180.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flowers.ae/products/7889549951065</id>
+    <published>2024-12-27T16:44:39+04:00</published>
+    <updated>2024-12-27T16:44:39+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flowers.ae/products/valentine-500-pink-roses-xxxl"/>
+    <title>Valentine 500 Pink Roses XXXL</title>
+    <s:type></s:type>
+    <s:vendor>Flowers.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/4847/4713/files/Pink.jpg?v=1735451663"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flowers.ae<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7875.00 - 8180.00
+            <a href="https://www.flowers.ae/products/valentine-500-pink-roses-xxxl">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Indulge in luxury this Valentine’s Day with 500 pink roses from Holland, arranged in our signature XXXL white hatbox, a truly unforgettable gift.<br><br><span><meta charset="utf-8">
+<span class="selectable-text copyable-text false xdakrdy">*</span><span class="selectable-text copyable-text false x117nqv4">This arrangement may take a minimum of 2 hours to handcraft. Please order in advance if possible</span><span class="selectable-text copyable-text false xdakrdy">*</span></span><br></p>
+<div class="p1">
+<meta charset="utf-8">
+<p><span>Gift Set options include:<br>* with Balloon 1pc<br>* with Box of Chocolates 28pcs<br>* with Teddy &amp; Chocolates 28pcs</span></p>
+<p><span><strong>Please note</strong>:<br>* Our video preview service is not available from the 12th to the 15th February.<br>** Our Timing services are not available from 13th to 15th of February but we aim to have Valentine orders delivered before 16:00.</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hatbox xxxl</s:tag>
+    <s:tag>metacatalog</s:tag>
+    <s:tag>over500</s:tag>
+    <s:tag>valentines-2025</s:tag>
+    <s:tag>vday</s:tag>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889549951065</id>
+      <title>Flowers</title>
+      <s:price currency="AED">7875.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889549951065</id>
+      <title>+ 1 Balloons  (+30aed)</title>
+      <s:price currency="AED">7905.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889549951065</id>
+      <title>+ Box of Chocolates 28pcs (+155aed)</title>
+      <s:price currency="AED">8030.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889549951065</id>
+      <title>+ Teddy &amp; Box of Chocolates 28pcs (+305aed)</title>
+      <s:price currency="AED">8180.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flowers.ae/products/7469160136793</id>
+    <published>2024-12-27T16:44:35+04:00</published>
+    <updated>2024-12-27T16:44:35+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flowers.ae/products/valentine-500-red-roses-xxxl"/>
+    <title>Valentine 500 Red Roses - XXXL</title>
+    <s:type></s:type>
+    <s:vendor>Flowers.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/4847/4713/files/Red_92c3813b-eebb-4263-8e4d-5dcc6733ee9e.jpg?v=1735451635"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flowers.ae<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7875.00 - 8180.00
+            <a href="https://www.flowers.ae/products/valentine-500-red-roses-xxxl">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="group w-full text-gray-800 dark:text-gray-100 border-b border-black/10 dark:border-gray-900/50 bg-gray-50 dark:bg-[#444654]">
+<div class="flex p-4 gap-4 text-base md:gap-6 md:max-w-2xl lg:max-w-xl xl:max-w-3xl md:py-6 lg:px-0 m-auto">
+<div class="relative flex flex-col w-[calc(100%-50px)] gap-1 md:gap-3 lg:w-[calc(100%-115px)]">
+<div class="flex flex-grow flex-col gap-3">
+<div class="min-h-[20px] flex flex-col items-start gap-4 whitespace-pre-wrap break-words">
+<div class="markdown prose w-full break-words dark:prose-invert light">
+<p><meta charset="utf-8"><b><br></b>Indulge in luxury this Valentine’s Day with 500 red roses from Holland, arranged in our signature XXXL white hatbox, a truly unforgettable gift.<br><br><meta charset="utf-8"><span><span class="selectable-text copyable-text false xdakrdy">*</span><span class="selectable-text copyable-text false x117nqv4">This arrangement may take a minimum of 2 hours to handcraft. Please order in advance if possible</span><span class="selectable-text copyable-text false xdakrdy">*</span></span><br></p>
+<p><span>Gift Set options include:<br>* with Balloon 1pc<br>* with Box of Chocolates 28pcs<br>* with Teddy &amp; Chocolates 28pcs</span></p>
+<p><span><strong>Please note</strong>:<br>* Our video preview service is not available from the 12th to the 15th February.<br>** Our Timing services are not available from 13th to 15th of February but we aim to have Valentine orders delivered before 16:00.</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hatbox xxxl</s:tag>
+    <s:tag>metacatalog</s:tag>
+    <s:tag>over500</s:tag>
+    <s:tag>valentines-2025</s:tag>
+    <s:tag>vday</s:tag>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7469160136793</id>
+      <title>Flowers</title>
+      <s:price currency="AED">7875.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7469160136793</id>
+      <title>+ 1 Balloons  (+30aed)</title>
+      <s:price currency="AED">7905.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7469160136793</id>
+      <title>+ Box of Chocolates 28pcs (+155aed)</title>
+      <s:price currency="AED">8030.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7469160136793</id>
+      <title>+ Teddy &amp; Box of Chocolates 28pcs (+305aed)</title>
+      <s:price currency="AED">8180.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flowers.ae/products/7889558077529</id>
+    <published>2024-12-27T16:44:30+04:00</published>
+    <updated>2024-12-27T16:44:30+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flowers.ae/products/valentine-xxl-blush-roses-hatbox"/>
+    <title>Valentine XXL Blush Roses Hatbox</title>
+    <s:type></s:type>
+    <s:vendor>Flowers.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/4847/4713/files/XXL-Blush_96cfc9f0-d184-4903-852d-c9bd8bfeaba6.jpg?v=1735452087"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flowers.ae<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1495.00 - 1915.00
+            <a href="https://www.flowers.ae/products/valentine-xxl-blush-roses-hatbox">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Impress with an XXL hatbox of blush roses, a stunning mix of fuchsia, pink and purple, the perfect luxurious Valentine’s Day gift.</p>
+<div class="p1">
+<p><span>Gift Set options include:<br>* with Balloon 1pc<br>* with Box of Chocolates 28pcs<br>* with Teddy &amp; Chocolates 28pcs</span></p>
+<p><span><strong>Please note</strong>:<br>* Our video preview service is not available from the 12th to the 15th February.<br>** Our Timing services are not available from 13th to 15th of February but we aim to have Valentine orders delivered before 16:00.</span><meta charset="utf-8"></p>
+<br>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hatbox</s:tag>
+    <s:tag>hatbox xxl</s:tag>
+    <s:tag>metacatalog</s:tag>
+    <s:tag>pink roses</s:tag>
+    <s:tag>round hatbox</s:tag>
+    <s:tag>valentines-2025</s:tag>
+    <s:tag>vday</s:tag>
+    <s:tag>xxl</s:tag>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889558077529</id>
+      <title>Flowers</title>
+      <s:price currency="AED">1495.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889558077529</id>
+      <title>+ 1 Balloons  (+30aed)</title>
+      <s:price currency="AED">1525.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889558077529</id>
+      <title>+ Box of Chocolates 28pcs (+155aed)</title>
+      <s:price currency="AED">1650.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889558077529</id>
+      <title>+ Candle &amp; Box of Chocolates 28pcs (+420aed)</title>
+      <s:price currency="AED">1915.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flowers.ae/products/7889545429081</id>
+    <published>2024-12-27T16:44:26+04:00</published>
+    <updated>2024-12-27T16:44:26+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flowers.ae/products/valentine-xxl-white-roses-hatbox"/>
+    <title>Valentine XXL White Roses Hatbox</title>
+    <s:type></s:type>
+    <s:vendor>Flowers.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/4847/4713/files/XXL-White_2001eb6a-bbce-46ae-aae1-6da2a758f64e.jpg?v=1735552663"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flowers.ae<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1495.00 - 1915.00
+            <a href="https://www.flowers.ae/products/valentine-xxl-white-roses-hatbox">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b></b>Impress your loved one with an XXL hatbox of white roses, a luxurious and unforgettable Valentine’s Day gift that symbolizes love and affection.<br></p>
+<p><span><meta charset="utf-8">Gift Set options include:<br>* with Balloon 1pc<br>* with Box of Chocolates 28pcs<br>* with Cardamom Bergamot Candle<span class="Apple-converted-space"> </span> &amp; <meta charset="utf-8">Chocolates 28pcs</span></p>
+<p><span><strong>Please note</strong>:<br>* Our video preview service is not available from the 12th to the 15th February.<br>** Our Timing services are not available from 13th to 15th of February but we aim to have Valentine orders delivered before 16:00.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hatbox xxl</s:tag>
+    <s:tag>metacatalog</s:tag>
+    <s:tag>valentines-2025</s:tag>
+    <s:tag>vday</s:tag>
+    <s:tag>xxl</s:tag>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889545429081</id>
+      <title>Flowers</title>
+      <s:price currency="AED">1495.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889545429081</id>
+      <title>+ 1 Balloons  (+30aed)</title>
+      <s:price currency="AED">1525.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889545429081</id>
+      <title>+ Box of Chocolates 28pcs (+155aed)</title>
+      <s:price currency="AED">1650.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889545429081</id>
+      <title>+ Candle &amp; Box of Chocolates 28pcs (+420aed)</title>
+      <s:price currency="AED">1915.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flowers.ae/products/7889542217817</id>
+    <published>2024-12-27T16:44:21+04:00</published>
+    <updated>2024-12-27T16:44:21+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flowers.ae/products/valentine-xxl-pink-roses-hatbox"/>
+    <title>Valentine XXL Pink Roses Hatbox</title>
+    <s:type></s:type>
+    <s:vendor>Flowers.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/4847/4713/files/XXL-Pink_f5257bb6-b222-4981-a024-37fb655cebbf.jpg?v=1735452044"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flowers.ae<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1495.00 - 1915.00
+            <a href="https://www.flowers.ae/products/valentine-xxl-pink-roses-hatbox">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b></b>Impress your loved one with an XXL hatbox of pink roses, a luxurious and unforgettable Valentine’s Day gift that symbolizes love and affection.<br></p>
+<p><span><meta charset="utf-8">Gift Set options include:<br>* with Balloon 1pc<br>* with Box of Chocolates 28pcs<br>* with Cardamom Bergamot Candle<span class="Apple-converted-space"> </span> &amp; <meta charset="utf-8">Chocolates 28pcs</span></p>
+<p><span><strong>Please note</strong>:<br>* Our video preview service is not available from the 12th to the 15th February.<br>** Our Timing services are not available from 13th to 15th of February but we aim to have Valentine orders delivered before 16:00.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hatbox xxl</s:tag>
+    <s:tag>metacatalog</s:tag>
+    <s:tag>valentines-2025</s:tag>
+    <s:tag>vday</s:tag>
+    <s:tag>xxl</s:tag>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889542217817</id>
+      <title>Flowers</title>
+      <s:price currency="AED">1495.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889542217817</id>
+      <title>+ 1 Balloons  (+30aed)</title>
+      <s:price currency="AED">1525.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889542217817</id>
+      <title>+ Box of Chocolates 28pcs (+155aed)</title>
+      <s:price currency="AED">1650.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889542217817</id>
+      <title>+ Candle &amp; Box of Chocolates 28pcs (+420aed)</title>
+      <s:price currency="AED">1915.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flowers.ae/products/7889538547801</id>
+    <published>2024-12-27T16:44:17+04:00</published>
+    <updated>2024-12-27T16:44:17+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flowers.ae/products/valentine-xxl-red-roses-hatbox"/>
+    <title>Valentine XXL Red Roses Hatbox</title>
+    <s:type></s:type>
+    <s:vendor>Flowers.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/4847/4713/files/XXL-Red_36000f26-7ed1-4b6a-9003-60ebe61b5541.jpg?v=1735452019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flowers.ae<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1495.00 - 1915.00
+            <a href="https://www.flowers.ae/products/valentine-xxl-red-roses-hatbox">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Impress your loved one with an XXL hatbox of red roses, a luxurious and unforgettable Valentine’s Day gift that symbolizes love and affection.<br></p>
+<p><span><meta charset="utf-8">Gift Set options include:<br>* with Balloon 1pc<br>* with Box of Chocolates 28pcs<br>* with Cardamom Bergamot Candle<span class="Apple-converted-space"> </span> &amp; <meta charset="utf-8">Chocolates 28pcs</span></p>
+<p><span><strong>Please note</strong>:<br>* Our video preview service is not available from the 12th to the 15th February.<br>** Our Timing services are not available from 13th to 15th of February but we aim to have Valentine orders delivered before 16:00.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hatbox xxl</s:tag>
+    <s:tag>metacatalog</s:tag>
+    <s:tag>valentines-2025</s:tag>
+    <s:tag>vday</s:tag>
+    <s:tag>xxl</s:tag>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889538547801</id>
+      <title>Flowers</title>
+      <s:price currency="AED">1495.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889538547801</id>
+      <title>+ 1 Balloons  (+30aed)</title>
+      <s:price currency="AED">1525.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889538547801</id>
+      <title>+ Box of Chocolates 28pcs (+155aed)</title>
+      <s:price currency="AED">1650.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889538547801</id>
+      <title>+ Candle &amp; Box of Chocolates 28pcs (+420aed)</title>
+      <s:price currency="AED">1915.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flowers.ae/products/7889525276761</id>
+    <published>2024-12-27T16:43:52+04:00</published>
+    <updated>2024-12-27T16:43:52+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flowers.ae/products/valentine-blush-heart-large"/>
+    <title>Valentine Blush Heart - Large</title>
+    <s:type></s:type>
+    <s:vendor>flowersae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/4847/4713/files/Blush_cefb0050-0592-40ef-9197-3e7f909a3da3.jpg?v=1734150595"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>flowersae<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            995.00 - 1225.00
+            <a href="https://www.flowers.ae/products/valentine-blush-heart-large">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A romantic arrangement of 60 to 70 blush roses, featuring a beautiful mix of fuchsia, pink and purple. Presented in a classic heart shaped box, it’s the perfect Valentine’s Day gift.</p>
+<p><meta charset="utf-8"><meta charset="utf-8"><span>Gift Set options include:<br>* with Balloon 1pc<br>* with Box of Chocolates 12pcs<br>* with Teddy<span class="Apple-converted-space"> </span> &amp; <meta charset="utf-8">Chocolates 12pcs</span><br></p>
+<p><span><strong>Please note</strong>:<br>* Our video preview service is not available from the 12th to the 15th February.<br>** Our Timing services are not available from 13th to 15th of February but we aim to have Valentine orders delivered before 16:00.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>60min</s:tag>
+    <s:tag>metacatalog</s:tag>
+    <s:tag>under500</s:tag>
+    <s:tag>valentines-2025</s:tag>
+    <s:tag>vday</s:tag>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889525276761</id>
+      <title>Flowers</title>
+      <s:price currency="AED">995.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889525276761</id>
+      <title>+ 1 Balloons  (+30aed)</title>
+      <s:price currency="AED">1025.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889525276761</id>
+      <title>+ Box of Chocolates 12pcs (+80aed)</title>
+      <s:price currency="AED">1075.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889525276761</id>
+      <title>+ Teddy &amp; Box of Chocolates 12pcs (+230aed)</title>
+      <s:price currency="AED">1225.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flowers.ae/products/7496635711577</id>
+    <published>2024-12-27T16:43:39+04:00</published>
+    <updated>2024-12-27T16:43:39+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flowers.ae/products/valentine-white-heart-large"/>
+    <title>Valentine White Heart - Large</title>
+    <s:type></s:type>
+    <s:vendor>flowersae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/4847/4713/files/WhiteHeart-Large.png?v=1735308217"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>flowersae<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            995.00 - 1225.00
+            <a href="https://www.flowers.ae/products/valentine-white-heart-large">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A romantic arrangement of 60-70 white roses in a classic heart-shaped box— the perfect Valentine’s Day expression of love.<br><br><span><meta charset="utf-8">Gift Set options include:<br>* with Balloon 1pc<br>* with Box of Chocolates 12pcs<br>* with Teddy<span class="Apple-converted-space"> </span> &amp; <meta charset="utf-8">Chocolates 12pcs<br><br><strong>Please note</strong>:<br>* Our video preview service is not available from the 12th to the 15th February.<br>** Our Timing services are not available from 13th to 15th of February but we aim to have Valentine orders delivered before 16:00.<br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>60min</s:tag>
+    <s:tag>metacatalog</s:tag>
+    <s:tag>under500</s:tag>
+    <s:tag>valentines-2025</s:tag>
+    <s:tag>vday</s:tag>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7496635711577</id>
+      <title>Flowers</title>
+      <s:price currency="AED">995.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7496635711577</id>
+      <title>+ 1 Balloons  (+30aed)</title>
+      <s:price currency="AED">1025.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7496635711577</id>
+      <title>+ Box of Chocolates 12pcs (+80aed)</title>
+      <s:price currency="AED">1075.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7496635711577</id>
+      <title>+ Teddy &amp; Box of Chocolates 12pcs (+230aed)</title>
+      <s:price currency="AED">1225.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flowers.ae/products/7496635646041</id>
+    <published>2024-12-27T16:43:34+04:00</published>
+    <updated>2024-12-27T16:43:34+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flowers.ae/products/valentine-pink-heart-large"/>
+    <title>Valentine Pink Heart - Large</title>
+    <s:type></s:type>
+    <s:vendor>flowersae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/4847/4713/files/Pink-L_81626b0d-8c7f-4fab-8c4c-0fec88fae177.jpg?v=1736754161"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>flowersae<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            995.00 - 1225.00
+            <a href="https://www.flowers.ae/products/valentine-pink-heart-large">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A romantic arrangement of 60-70 pink roses in a classic heart-shaped box— the perfect Valentine’s Day expression of love.<br><span><br><meta charset="utf-8">Gift Set options include:<br>* with Balloon 1pc<br>* with Box of Chocolates 12pcs<br>* with Teddy<span class="Apple-converted-space"> </span> &amp; <meta charset="utf-8">Chocolates 12pcs<br><br><br><strong>Please note</strong><span>:</span><br><span>* Our video preview service is not available from the 12th to the 15th February.<br>** Our Timing services are not available from 13th to 15th of February but we aim to have Valentine orders delivered before 16:00.</span><br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>60min</s:tag>
+    <s:tag>metacatalog</s:tag>
+    <s:tag>under500</s:tag>
+    <s:tag>valentines-2025</s:tag>
+    <s:tag>vday</s:tag>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7496635646041</id>
+      <title>Flowers</title>
+      <s:price currency="AED">995.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7496635646041</id>
+      <title>+ 1 Balloons  (+30aed)</title>
+      <s:price currency="AED">1025.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7496635646041</id>
+      <title>+ Box of Chocolates 12pcs (+80aed)</title>
+      <s:price currency="AED">1075.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7496635646041</id>
+      <title>+ Teddy &amp; Box of Chocolates 12pcs (+230aed)</title>
+      <s:price currency="AED">1225.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flowers.ae/products/7496635482201</id>
+    <published>2024-12-27T16:43:30+04:00</published>
+    <updated>2024-12-27T16:43:30+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flowers.ae/products/valentine-red-heart-large"/>
+    <title>Valentine Red Heart - Large</title>
+    <s:type></s:type>
+    <s:vendor>flowersae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/4847/4713/files/RED-L.jpg?v=1734150566"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>flowersae<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            995.00 - 1225.00
+            <a href="https://www.flowers.ae/products/valentine-red-heart-large">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8">A romantic arrangement of 60-70 red roses in a classic heart-shaped box— the perfect Valentine’s Day expression of love.<br><b></b><meta charset="utf-8"><span><br><meta charset="utf-8">Gift Set options include:<br>* with Balloon 1pc<br>* with Box of Chocolates 12pcs<br>* with Teddy<span class="Apple-converted-space"> </span> &amp; <meta charset="utf-8">Chocolates 12pcs<br><br></span></p>
+<p><span><strong>Please note</strong>:<br>* Our video preview service is not available from the 12th to the 15th February.<br>** Our Timing services are not available from 13th to 15th of February but we aim to have Valentine orders delivered before 16:00.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>60min</s:tag>
+    <s:tag>metacatalog</s:tag>
+    <s:tag>under500</s:tag>
+    <s:tag>valentines-2025</s:tag>
+    <s:tag>vday</s:tag>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7496635482201</id>
+      <title>Flowers</title>
+      <s:price currency="AED">995.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7496635482201</id>
+      <title>+ 1 Balloons  (+30aed)</title>
+      <s:price currency="AED">1025.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7496635482201</id>
+      <title>+ Box of Chocolates 12pcs (+80aed)</title>
+      <s:price currency="AED">1075.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7496635482201</id>
+      <title>+ Teddy &amp; Box of Chocolates 12pcs (+230aed)</title>
+      <s:price currency="AED">1225.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flowers.ae/products/7889523802201</id>
+    <published>2024-12-27T16:43:26+04:00</published>
+    <updated>2024-12-27T16:43:26+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flowers.ae/products/valentine-200-blush-roses-vase"/>
+    <title>Valentine 200 Blush Roses Vase</title>
+    <s:type>Flowers</s:type>
+    <s:vendor>Flowers.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0022/4847/4713/files/Blush200.jpg?v=1734353221"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flowers.ae<br>
+        <strong>Type: </strong>Flowers<br>
+        <strong>Price: </strong>
+            2945.00 - 3250.00
+            <a href="https://www.flowers.ae/products/valentine-200-blush-roses-vase">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Make a grand statement with 200 blush roses— a stunning mix of fuchsia, pink, and purple in a vase, perfect for Valentine’s Day.</p>
+<p><meta charset="utf-8"><meta charset="utf-8"><span>Gift Set options include:<br>* with Balloon 1pc<br>* with Box of Chocolates 28pcs<br>* with Teddy<span class="Apple-converted-space"> </span> &amp; <meta charset="utf-8">Chocolates 28pcs</span><br></p>
+<p><span><strong>Please note</strong>:<br>* Our video preview service is not available from the 12th to the 15th February.<br>** Our Timing services are not available from 13th to 15th of February but we aim to have Valentine orders delivered before 16:00.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clear Vase</s:tag>
+    <s:tag>metacatalog</s:tag>
+    <s:tag>valentines-2025</s:tag>
+    <s:tag>vase</s:tag>
+    <s:tag>vase arrangement</s:tag>
+    <s:tag>vday</s:tag>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889523802201</id>
+      <title>Flowers</title>
+      <s:price currency="AED">2945.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889523802201</id>
+      <title>+ 1 Balloons  (+30aed)</title>
+      <s:price currency="AED">2975.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889523802201</id>
+      <title>+ Box of Chocolates 28pcs (+155aed)</title>
+      <s:price currency="AED">3100.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.flowers.ae/products/7889523802201</id>
+      <title>+ Teddy &amp; Box of Chocolates 28pcs (+305aed)</title>
+      <s:price currency="AED">3250.00</s:price>
+      <s:sku>flower</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
